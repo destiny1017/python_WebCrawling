@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="965368b5-ddfa-4693-a4c1-c473fcd83651" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="965368b5-ddfa-4693-a4c1-c473fcd83651" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615214316142</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="webCrawling-practice">
+      <created>1615219194463</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615219194463</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,10 +142,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="webCrawling-practice" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="280" y="131" key="CommitChangelistDialog2" timestamp="1615214315111">
+    <state x="280" y="131" key="CommitChangelistDialog2" timestamp="1615219193637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="280" y="131" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615214315111" />
+    <state x="280" y="131" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615219193637" />
     <state x="432" y="274" key="FileChooserDialogImpl" timestamp="1614703844460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -161,10 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="936" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614704351568" />
-    <state x="244" y="266" key="Vcs.Push.Dialog.v2" timestamp="1615214326308">
+    <state x="244" y="266" key="Vcs.Push.Dialog.v2" timestamp="1615219204154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="244" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615214326308" />
+    <state x="244" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615219204154" />
     <state x="458" y="448" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614704078503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
